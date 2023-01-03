@@ -1,0 +1,13 @@
+entries,number of compounds,number of edges,Pairwise RMSE,Pairwise MUE,Edgewise RMSE,Edgewise MUE,R-squared,Kendall tau
+ptp1b_pkacorr_out,3,6,1.61,1.42,1.61,1.41,0.89,0.91
+tyk2_pkacorr_out,5,12,1.14,0.95,1.09,0.88,0.78,0.56
+jak1_pkacorr_out,6,11,0.89,0.72,0.81,0.64,0.73,0.46
+cdk2_pkacorr_out,3,6,0.46,0.43,0.46,0.43,0.97,0.91
+thrombin_whole_map_out,6,9,1.45,1.20,1.41,1.21,0.94,0.87
+dlk_pkacorr_out,5,9,0.47,0.42,0.41,0.32,0.98,0.97
+irak4_s2_pkacorr_out,5,14,1.33,1.15,1.33,1.12,0.70,0.38
+itk_pkacorr_out,4,8,1.06,0.91,1.17,1.10,0.14,0.33
+jnk1_pkacorr_out,3,8,1.01,0.87,1.01,0.88,0.91,1.00
+ephx2_pkacor_out,4,8,1.39,1.26,1.21,1.10,0.82,0.67
+egfr_pkacorr_out,5,16,1.64,1.43,1.59,1.36,0.03,-0.24
+irak4_s3_pkacorr_out,4,13,1.21,1.05,1.21,1.05,0.19,0.32

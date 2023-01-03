@@ -1,0 +1,9 @@
+Group name,Group abbreviation,Protein,Input file naming scheme,Reference PDB,Number of nodes,Dynamic range (kcal/mol),DOI of source
+FEP+ R-group set,jacs_set,PTP1B,ptp1b,2QBS,23,5.1,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,Mcl1,mcl1_extra_flips,4HW3,69,4.2,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,CDK2,cdk2,1H1Q,16,4.2,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,JNK1,jnk1_manual_flips,2GMX,38,3.4,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,Thrombin,thrombin_core,2ZFF,11,1.7,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,TYK2,tyk2,4GIH,16,4.3,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,P38,p38,3FLN,34,3.8,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,BACE1,bace,4DJW,36,3.5,doi:10.1021/ja512751q

@@ -1,0 +1,12 @@
+Ligand 1,Ligand 2,ddG (kcal/mol)
+cmpd 2 (methyl),cmpd 5 (1-Butenyl),-0.14000000000000057
+cmpd 5 (1-Butenyl),cmpd 7 (n-propyl),1.8800000000000008
+cmpd 2 (methyl),cmpd 3 (Allyl),1.5199999999999996
+cmpd 2 (methyl),cmpd 9 (methoxyethyl),2.169999999999999
+cmpd 2 (methyl),cmpd 6 (ethyl),1.33
+cmpd 2 (methyl),cmpd 8 (n-Butyl),1.58
+cmpd 2 (methyl),cmpd 7 (n-propyl),1.7400000000000002
+cmpd 2 (methyl),cmpd 4 (Crotyl),1.1499999999999986
+cmpd 3 (Allyl),cmpd 4 (Crotyl),-0.370000000000001
+cmpd 9 (methoxyethyl),cmpd 8 (n-Butyl),-0.589999999999999
+cmpd 6 (ethyl),cmpd 7 (n-propyl),0.41000000000000014

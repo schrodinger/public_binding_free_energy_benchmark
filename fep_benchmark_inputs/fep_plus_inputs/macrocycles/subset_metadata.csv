@@ -1,0 +1,8 @@
+Group name,Group abbreviation,Protein,Input file naming scheme,Reference PDB,Number of nodes,Dynamic range (kcal/mol),DOI of source
+FEP+ macrocycles,macrocycles,HSP90,3RKZ_lig62to70_alpha05,3RKZ,7,6.5,doi:10.1021/acs.jctc.7b00885
+FEP+ macrocycles,macrocycles,MHT1,MHT1_lig3_alpha05,5ANT,3,5.4,doi:10.1021/acs.jctc.7b00885
+FEP+ macrocycles,macrocycles,BACE1,2B8V_lig24and25_alpha05,2B8V,2,2.1,doi:10.1021/acs.jctc.7b00885
+FEP+ macrocycles,macrocycles,CK2,ck2_custcore_hotlys,2PVN,2,2.7,doi:10.1021/acs.jctc.7b00885
+FEP+ macrocycles,macrocycles,CHK1,2E9P_lig4to7_alpha05,2E9P,4,0.9,doi:10.1021/acs.jctc.7b00885
+FEP+ macrocycles,macrocycles,BACE1,2Q15_lig17to21_alpha05,2Q15,6,1.5,doi:10.1021/acs.jctc.7b00885
+FEP+ macrocycles,macrocycles,HSP90,hsp90_3hvd_custcore,3HVD,10,6.1,doi:10.1021/acs.jctc.7b00885

@@ -1,0 +1,4 @@
+pH  7.0
+
+# ligand ligand percent percent   
+4a 4b 0.5 0.5

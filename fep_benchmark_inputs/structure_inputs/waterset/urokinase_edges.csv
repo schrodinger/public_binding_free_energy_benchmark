@@ -1,0 +1,7 @@
+Ligand 1,Ligand 2,ddG (kcal/mol)
+"10302 (1GJ7, no water pose)",7806 (no water pose),2.1708578140000014
+"10302 (1GJ7, no water pose)",8696 (no water pose),1.0201831880000007
+"10302 (1GJ7, no water pose)",11417 (no water pose),0.25674662000000126
+11417 (no water pose),7806 (no water pose),1.9141111940000002
+11417 (no water pose),8696 (no water pose),0.7634365679999995
+7806 (no water pose),8696 (no water pose),-1.1506746260000007

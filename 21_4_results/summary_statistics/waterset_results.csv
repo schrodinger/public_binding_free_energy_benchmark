@@ -1,0 +1,9 @@
+entries,number of compounds,number of edges,Pairwise RMSE,Pairwise MUE,Edgewise RMSE,Edgewise MUE,R-squared,Kendall tau
+brd41_ASH106_out,8,11,1.48,1.19,2.05,1.82,0.00,0.00
+chk1_out,13,19,1.39,1.14,1.04,0.88,0.62,0.61
+throm_nozob_hip75_sbmcorr_out,21,20,1.05,0.81,0.94,0.70,0.56,0.56
+taf12_out,8,11,0.51,0.42,0.56,0.47,0.83,0.64
+hsp90_woodhead_out,4,5,0.36,0.26,0.39,0.31,1.00,1.00
+scyt_dehyd_pkacorr_out,7,12,1.83,1.54,1.77,1.49,0.77,0.62
+urokinase_out,4,6,0.52,0.45,0.52,0.45,0.86,1.00
+hsp90_kung_out,11,19,1.70,1.37,1.51,1.18,0.69,0.52

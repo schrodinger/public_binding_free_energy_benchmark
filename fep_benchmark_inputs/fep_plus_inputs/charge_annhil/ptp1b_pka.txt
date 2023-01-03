@@ -1,0 +1,3 @@
+pH	7.0
+#Lig	pKa
+26neu 26charg 9.31

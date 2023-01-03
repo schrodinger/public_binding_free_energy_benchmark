@@ -1,0 +1,4 @@
+pH	7.2
+#Lig	pKa
+19neu 19charg 10.33
+28neu 28charg 11.14

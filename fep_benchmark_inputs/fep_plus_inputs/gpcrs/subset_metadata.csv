@@ -1,0 +1,5 @@
+Group name,Group abbreviation,Protein,Input file naming scheme,Reference PDB,Number of nodes,Dynamic range (kcal/mol),DOI of source
+GPCRs,gpcrs,A2A,a2a_hip278,5OLZ,29,3.2,doi:10.1021/acs.jcim.0c00449
+GPCRs,gpcrs,OX2,ox2_hip_custcore,4S0V,51,4.8,doi:10.1021/acs.jcim.0c00449
+GPCRs,gpcrs,P2Y1,p2y1_meta_sub,4XNV,20,3.4,doi:10.1021/acs.jcim.1c01147
+GPCRs,gpcrs,P2Y1,p2y1_ortho_sub,4XNV,12,3.4,doi:10.1021/acs.jcim.1c01147

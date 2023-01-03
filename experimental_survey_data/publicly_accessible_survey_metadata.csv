@@ -1,0 +1,55 @@
+Comparison type,CSV filename ,Protein,Assays compared,Used in reproducibility survey?,DOI or weblink of source,Location in source,No. compounds,No. pairs,Pairwise MUE (kcal/mol),Pairwise RMSD (kcal/mol)
+Binding vs binding,mandine2001_sh2_spa_spr,SH2,SPA vs SPR,Yes,doi:10.1002/jmr.542,Tables 1 and 2,17,136,1.2,1.54
+Binding vs binding,murphy2006_binding,hERG,HEK293EBNA-hERG vs IMR-32 membranes,No,doi:10.1016/j.vascn.2005.10.003,Table 1,5,10,1.19,1.35
+Binding vs binding,navratilova2007_caII_itc_spr,Carbonic anhydras II (CA II),ITC vs SPR,Yes,doi:10.1016/j.ab.2007.01.031,Table 2,4,6,0.13,0.14
+Binding vs binding,murthy2007_itc_spr,Lectin,ITC vs SPR,Yes,doi:10.1007/s10719-007-9076-6,Tables 1 and 2,6,15,0.4,0.45
+Binding vs binding,hang2009_hcvpoly_con1_spr_fluor,HCV NS5B polymerase - con1,Fluorescence quenching vs SPR,Yes,doi:10.1074/jbc.M808889200,Tables 1 and S1,4,6,0.79,0.95
+Binding vs binding,jecklin2009_ms_itc,Carbonic anhydras I (CA I),nESI-MS vs ITC,Yes,doi:10.1002/jmr.951,Table 1,5,10,0.44,0.50
+Binding vs binding,jecklin2009_spr_itc,Carbonic anhydras I (CA I),SPR vs ITC,Yes,doi:10.1002/jmr.951,Table 1,7,21,1.48,1.83
+Binding vs binding,jecklin2009_ms_spr,Carbonic anhydras I (CA I),nESI-MS vs SPR,Yes,doi:10.1002/jmr.951,Table 1,6,15,2.18,2.63
+Binding vs binding,jecklin2009_spr_buffer_comparison,Carbonic anhydras I (CA I),SPR (AmAc buffer) vs SPR (PBS buffer),No,doi:10.1002/jmr.951,Table 4,8,28,0.52,0.65
+Binding vs binding,aaron2010_spr_itc,Carbonic anhydras II (CA II),SPR vs ITC,Yes,https://repository.upenn.edu/edissertations/142,Tables 2.1 and 2.2,3,3,1.29,1.40
+Binding vs binding,mason2012_spr_lan,FAK,SPR vs LanthaScreen,Yes,doi:10.1089/adt.2012.453,Table 1,5,10,0.79,0.95
+Binding vs binding,newman2012_spr_itc,Trypsin,SPR vs ITC,Yes,doi:10.1007/s10822-011-9521-2,Table 1,7,21,0.33,0.39
+Binding vs binding,rogez2013_human_spr_itc,Bovine carbonic anhydras II (CA II),SPR vs ITC,Yes,doi:10.1002/jmr.2330,Table 1,4,6,0.28,0.33
+Binding vs binding,rogez2013_human_spr_tsa,Bovine carbonic anhydras II (CA II),SPR vs thermal shift assay,Yes,doi:10.1002/jmr.2330,Table 1,4,6,0.71,0.81
+Binding vs binding,rogez2013_human_itc_tsa,Bovine carbonic anhydras II (CA II),ITC vs thermal shift assay,Yes,doi:10.1002/jmr.2330,Table 1,4,6,0.87,1.00
+Binding vs binding,rogez2013_bovine_spr_itc,Human carbonic anhydras II (CA II),SPR vs ITC,Yes,doi:10.1002/jmr.2330,Table 1,4,6,0.16,0.18
+Binding vs binding,rogez2013_bovine_spr_tsa,Human carbonic anhydras II (CA II),SPR vs thermal shift assay,Yes,doi:10.1002/jmr.2330,Table 1,4,6,0.71,0.83
+Binding vs binding,rogez2013_bovine_itc_tsa,Human carbonic anhydras II (CA II),ITC vs thermal shift assay,Yes,doi:10.1002/jmr.2330,Table 1,4,6,0.75,0.89
+Binding vs binding,bocquet2015_spr_detergent_nanoc9,A2A,A2A SPR: detergetent vs nanodisk (C9 immoblized),No,doi:10.1016/j.bbamem.2015.02.014,Table 2,3,9,0.66,0.77
+Binding vs binding,bocquet2015_spr_detergent_nanohis,A2A,A2A SPR: detergetent vs nanodisk (HIS immoblized),No,doi:10.1016/j.bbamem.2015.02.014,Table 2,3,9,0.33,0.36
+Binding vs binding,bocquet2015_spr_nanoC9_nanohis,A2A,A2A SPR nanodisk: C9 vs HIS immoblized,No,doi:10.1016/j.bbamem.2015.02.014,Table 2,3,9,0.41,0.44
+Binding vs binding,schnapp2016_dppiv_itc_spr,DPPIV,SPR vs ITC,Yes,doi:10.1021/acs.jmedchem.6b00475,Figures 2 and 3,9,36,1.62,1.94
+Binding vs binding,ycas2020_bptf_nmr_labeled_spr,BPTF,NMR vs SPR,Yes,doi:10.1039/d0ob00506a,Tables 1 and 3,4,6,0.98,1.10
+Binding vs binding,ycas2020_bptf_nmr_spr,BPTF,NMR vs SPR with labelled protein,Yes,doi:10.1039/d0ob00506a,Tables 1 and 4,4,6,1.14,1.28
+Binding vs binding,ycas2020_bptf_nmr_alphascreen,BPTF,NMR vs alpha screen,Yes,doi:10.1039/d0ob00506a,Tables 1 and 5,4,6,0.77,0.85
+Binding vs binding,ycas2020_bptf_labeled_spr_alphascreen,BPTF,SPR vs alpha screen,Yes,doi:10.1039/d0ob00506a,Tables 1 and 6,7,21,0.39,0.45
+Binding vs binding,ycas2020_bptf_spr_alphascreen,BPTF,SPR with labelled protein vs alpha screen,Yes,doi:10.1039/d0ob00506a,Tables 1 and 7,7,21,0.42,0.49
+Binding vs binding,peterson2018_itc_fp,Galectin-3,Fluorescence polarization vs ITC,Yes,https://portal.research.lu.se/en/publications/molecular-basis-for-galectin-ligand-interactions-design-synthesis,Tables 6 and 7,10,45,0.37,0.47
+Binding vs inhibition,nikolovska2004_xiap_ki_kd,XIAP BIR3,Functional vs fluorescence polarization,Yes,doi:10.1016/j.ab.2004.05.055,Table 3,6,15,0.49,0.65
+Binding vs inhibition,baum2009_thrombin_ki_itc,Thrombin,Functional vs ITC,Yes,doi:10.1016/j.jmb.2009.04.051.,Figure 1 amd table 1,12,66,0.63,0.72
+Binding vs inhibition,hang2009_hcvpoly_bk_ic50_fluor,HCV NS5B polymerase - bk,Fluorescence quenching vs functional,Yes,doi:10.1074/jbc.M808889200,Figures A and B,32,496,0.99,1.25
+Binding vs inhibition,hang2009_hcvpoly_con1_ic50_fluor,HCV NS5B polymerase - con1,Fluorescence quenching vs functional,Yes,doi:10.1074/jbc.M808889200,Figures A and B,33,528,1.05,1.34
+Binding vs inhibition,kung2011_hsp90_spa_itc,HSP90,Functional competition SPA vs ITC,Yes,doi:10.1016/j.bmcl.2011.04.130.,Abstract and table 1,4,6,0.62,0.72
+Binding vs inhibition,mason2012_spr_ic50,FAK,Inhibition vs SPR ,Yes,doi:10.1089/adt.2012.453,Table 1,10,45,0.78,0.92
+Binding vs inhibition,mason2012_lan_ic50,FAK,Inhibition vs LanthaScreen,Yes,doi:10.1089/adt.2012.453,Table 1,5,10,1.15,1.51
+Binding vs inhibition,li2016_dppiv_spr_ic50,DPPIV,Functional vs SPR,Yes,doi:10.1021/acs.jmedchem.6b00505,Tables 2 and 4,4,6,0.93,1.07
+Binding vs inhibition,schnapp2016_dppiv_ic50_spr,DPPIV,Functional vs SPR,Yes,doi:10.1021/acs.jmedchem.6b00475,Figure 2 and table S1,9,36,1.01,1.20
+Binding vs inhibition,schnapp2016_dppiv_itc_ic50,DPPIV,Functional vs ITC,Yes,doi:10.1021/acs.jmedchem.6b00475,Figure 2 and table S1,9,36,0.92,1.09
+Binding vs inhibition,crawford2016_binding_BRD41,BRD4(1),TR-FRET vs BROMOscan,Yes,doi:10.1021/acs.jmedchem.6b00264,Tables S4,4,6,0.23,0.25
+Binding vs inhibition,crawford2016_binding_BRD42,BRD4(2),TR-FRET vs BROMOscan,Yes,doi:10.1021/acs.jmedchem.6b00264,Tables S5,4,6,0.29,0.33
+Binding vs inhibition,crawford2016_binding_BRD9,BRD9,TR-FRET vs BROMOscan,Yes,doi:10.1021/acs.jmedchem.6b00264,Tables S6,4,6,0.36,0.43
+Binding vs inhibition,crawford2016_binding_BRPF1,BRPF1,TR-FRET vs BROMOscan,Yes,doi:10.1021/acs.jmedchem.6b00264,Tables S7,4,6,0.24,0.28
+Binding vs inhibition,crawford2016_binding_CECR2,CECR2,TR-FRET vs BROMOscan,Yes,doi:10.1021/acs.jmedchem.6b00264,Tables S8,4,6,0.29,0.32
+Binding vs inhibition,crawford2016_binding_CREBBP,CREBBP,TR-FRET vs BROMOscan,Yes,doi:10.1021/acs.jmedchem.6b00264,Tables S9,4,6,0.36,0.42
+Binding vs inhibition,crawford2016_binding_TAF12,TAF1(2),TR-FRET vs BROMOscan,Yes,doi:10.1021/acs.jmedchem.6b00264,Tables S10,4,6,0.23,0.28
+Binding vs inhibition,patil2018_ic50_spr_nottopbottom,AChE,Functional vs SPR (without top and bottom of assay),Yes,doi:10.1371/journal.pone.0215291,"Table 1 and the ""Affinity"" column of table 2",9,36,1.32,1.62
+Binding vs inhibition,patil2018_ic50_spr,AChE,Functional vs SPR ,No,doi:10.1371/journal.pone.0215291,"Table 1 and the ""Affinity"" column of table 2",11,55,2.3,2.89
+Binding vs inhibition,schindler2020_functional_spr,Unknown,Functional vs SPR,Yes,doi:10.1021/acs.jcim.0c00900,Figure 2,8,28,1.4,1.89
+Inhibition vs inhibition,jia2006_cot_inhibition_nottopbottom,Cancer osaka thyroid,Functional vs Functional (without top and bottom of assay),Yes,doi:10.1016/j.ab.2005.11.010,Figure 5b,62,1891,0.41,0.51
+Inhibition vs inhibition,jia2006_cot_inhibition,Cancer osaka thyroid,Functional vs Functional,No,doi:10.1016/j.ab.2005.11.010,Figure 5b,53,1378,0.41,0.50
+Inhibition vs inhibition,katz2003_upa_competition,Urokinase,Functional vs Functional,Yes,"doi:10.1016/S1074-5521(01)00084-9, doi:10.1016/S0022-2836(03)00399-1",Table 1 (1st source) and table 2 (2nd source),4,6,0.73,0.82
+Inhibition vs inhibition,chen2013_angiotensin_inhibition,Angiotensin I-converting enzyme,HPLC vs VSP,Yes,doi:10.1016/j.foodchem.2013.06.048.,Table 3,3,3,0.04,0.05
+Inhibition vs inhibition,moonshot2020_covid_protease_inhibition_nottopbottom,SARS-CoV-2 main protease,Fluorescence vs RapidFire (without top and bottom of assay),Yes,"doi:10.1101/2020.10.29.339317, https://covid.postera.ai/covid/activity_data",Table in weblink,324,52326,0.6,0.79
+Inhibition vs inhibition,moonshot2020_covid_protease_inhibition,SARS-CoV-2 main protease,Fluorescence vs RapidFire,No,"doi:10.1101/2020.10.29.339317, https://covid.postera.ai/covid/activity_data",Table in weblink,528,139128,0.58,0.85

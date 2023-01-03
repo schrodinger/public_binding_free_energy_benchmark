@@ -1,0 +1,3 @@
+Group name,Group abbreviation,Protein,Input file naming scheme,Reference PDB,Number of nodes,Dynamic range (kcal/mol),DOI of source
+Bayer macrocycles,bayer_macrocycles,BRD4,wagner_brd4,5UEX,3,3.8,doi:10.1002/cmdc.201700478
+Bayer macrocycles,bayer_macrocycles,Ftase,ftase_extraligs_custcore_stereo,1LD7,5,1.0,doi:10.1002/cmdc.201700478

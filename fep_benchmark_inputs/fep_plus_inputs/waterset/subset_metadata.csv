@@ -1,0 +1,9 @@
+Group name,Group abbreviation,Protein,Input file naming scheme,Reference PDB,Number of nodes,Dynamic range (kcal/mol),DOI of source
+Water displacement,waterset,Urokinase,urokinase,1GJ7,4,2.2,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,Scytalone dehydratase,scyt_dehyd,3STD,7,6.2,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,BRD4,brd41_ASH106,5I88,8,2.6,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,HSP90,hsp90_woodhead,2XJJ,4,4.6,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,Thrombin,throm_nozob_hip75,2ZFF,39,4.3,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,TAF1(2),taf12,5I1Q,8,2.3,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,CHK1,chk1,2E9V,13,4.6,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,HSP90,hsp90_kung,3RLP,11,3.9,doi:10.1021/acs.jctc.0c00660

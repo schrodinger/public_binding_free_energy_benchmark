@@ -1,0 +1,9 @@
+entries,number of compounds,number of edges,Pairwise RMSE,Pairwise MUE,Edgewise RMSE,Edgewise MUE,R-squared,Kendall tau
+mcl1_extra_flips_bmcorr_out,42,123,1.24,1.00,1.17,0.92,0.49,0.52
+cdk2_out,16,25,1.31,1.07,1.16,1.03,0.42,0.44
+p38_out,34,56,1.16,0.92,0.89,0.69,0.49,0.54
+tyk2_out,16,24,0.69,0.55,0.82,0.64,0.86,0.81
+bace_out,36,58,1.08,0.85,1.04,0.87,0.39,0.42
+jnk1_manual_flips_symbmcorr_out,21,34,0.83,0.67,0.65,0.53,0.71,0.71
+thrombin_core_out,11,14,0.79,0.64,0.94,0.77,0.68,0.64
+ptp1b_out,23,49,0.74,0.60,0.64,0.55,0.85,0.67

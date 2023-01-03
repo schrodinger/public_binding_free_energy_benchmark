@@ -1,0 +1,9 @@
+pH  7.7
+
+# ligand     ligand      pka
+8c neutral equitorial_8c adjust_10.457
+8d neutral equitorial_8d_10.447
+8f neutral_8f_9.396
+8e adjust neutral_8e_9.39
+8b neutral_8b_7.82
+8a neutral_8a_7.82

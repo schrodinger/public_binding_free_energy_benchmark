@@ -1,0 +1,6 @@
+Group name,Group abbreviation,Protein,Input file naming scheme,Reference PDB,Number of nodes,Dynamic range (kcal/mol),DOI of source
+Miscellaneous,misc,FAAH,hfaah,6MRG,24,5.3,doi:10.1021/acs.jctc.8b00672
+Miscellaneous,misc,HIV1 protease,hiv_prot_ekegren,2CEN,13,1.3,doi:10.1021/jm051239z
+Miscellaneous,misc,CDK8,cdk8_koehler,5CEI,10,1.6,doi:10.1021/acsmedchemlett.5b00278
+Miscellaneous,misc,Galectin,galectin3_extra,5E89,26,3.4,doi:10.1039/c9sc03754c
+Miscellaneous,misc,BTK,btk_extra_flip,4ZLZ,8,3.8,doi:10.1021/acs.jmedchem.5b00734

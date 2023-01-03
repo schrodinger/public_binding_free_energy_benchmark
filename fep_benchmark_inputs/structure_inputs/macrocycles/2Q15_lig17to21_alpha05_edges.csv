@@ -1,0 +1,10 @@
+Ligand 1,Ligand 2,ddG (kcal/mol)
+ligand_20_S,ligand_18,-0.6099996566772461
+ligand_20_S,ligand_19,-1.0799999237060547
+ligand_20_S,ligand_17_enu,0.3900003433227539
+ligand_20_S,ligand17_int,None
+ligand_20_S,ligand_21,-0.3599996566772461
+ligand_21,ligand_18,-0.25
+ligand_21,ligand_19,-0.7200002670288086
+ligand17_int,ligand_19,None
+ligand17_int,ligand_17_enu,None

@@ -1,0 +1,4 @@
+pH	7.2
+#Lig	pKa
+5neu 5charg 7.24
+17neu 17charg 7.67

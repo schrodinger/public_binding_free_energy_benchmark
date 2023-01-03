@@ -1,0 +1,4 @@
+pH	7.2
+#Lig	pKa
+19a_neu 19a_charg 8.38 
+19b_charg 19b_neu 4.25

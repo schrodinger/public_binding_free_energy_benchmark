@@ -1,0 +1,5 @@
+Group name,Group abbreviation,Protein,Input file naming scheme,Reference PDB,Number of nodes,Dynamic range (kcal/mol),DOI of source
+Janssen BACE1,janssen_bace,BACE1,bace_keranen_p2,3IN4,18,0.9,doi:10.1021/acs.jctc.6b01141
+Janssen BACE1,janssen_bace,BACE1,bace_ciordia_retro,4JPC,33,4.9,doi:10.1021/acs.jcim.6b00220
+Janssen BACE1,janssen_bace,BACE1,bace_p3_arg368_in,3ZOV,21,4.8,doi:10.1021/acs.jctc.6b01141
+Janssen BACE1,janssen_bace,BACE1,bace_ciordia_prospective,4JPC,9,2.5,doi:10.1021/acs.jcim.6b00220

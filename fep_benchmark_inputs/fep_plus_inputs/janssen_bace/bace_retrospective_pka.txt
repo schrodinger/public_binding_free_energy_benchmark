@@ -1,0 +1,4 @@
+pH  4.5
+
+# ligand ligand  pka
+30 30_protonated 6.45 

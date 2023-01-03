@@ -1,0 +1,6 @@
+entries,number of compounds,number of edges,Pairwise RMSE,Pairwise MUE,Edgewise RMSE,Edgewise MUE,R-squared,Kendall tau
+TPSB2_3v7t_opls4_out,2,1,0.64,0.64,0.64,0.64,1.00,1.00
+Fxa_2ei8_opls4_out,3,3,1.25,1.11,1.26,1.11,0.96,-1.00
+EZH2_5ij7_corehop_opls4_out,4,5,0.19,0.17,0.20,0.19,0.98,0.91
+Bace1_4zsp_opls4_out,3,3,0.70,0.65,0.70,0.65,0.93,1.00
+CHK1_3u9n_corehop_opls4_out,5,8,0.76,0.65,0.81,0.72,0.18,0.40

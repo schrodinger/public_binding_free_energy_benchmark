@@ -1,0 +1,4 @@
+pH	7.0
+#Lig	pKa
+jmc_3charg jmc_32neu 3.52
+ejm_52neu ejm_52charg 9.36

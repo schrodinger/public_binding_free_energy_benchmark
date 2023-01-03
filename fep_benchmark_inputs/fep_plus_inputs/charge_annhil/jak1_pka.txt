@@ -1,0 +1,4 @@
+pH	7.2
+#Lig	pKa
+16neu 16charg 8.83
+18neu 18charg 6.25

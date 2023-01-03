@@ -1,0 +1,10 @@
+Group name,Group abbreviation,Protein,Input file naming scheme,Reference PDB,Number of nodes,Dynamic range (kcal/mol),DOI of source
+FEP+ fragments,fragments,HSP90,hsp90_frag_2rings,3FT8,6,2.1,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,LigA,frag_liga_auto,4CC5,11,5.9,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,HSP90,hsp90_frag_single_ring,3FT8,7,1.7,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,JAK2,jak2_set1,3E63,12,3.6,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,MUP-1,frag_mup1,1I06,7,3.5,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,P38,frag_p38,1W7H,6,2.4,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,T4 lysozyme,t4lysozyme_uvt,186L,12,2.1,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,Mcl1,frag_mcl1_noweak,4HW3,12,1.3,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,JAK2,jak2_set2_extra,3E64,9,2.7,doi:10.1021/acs.jcim.5b00538

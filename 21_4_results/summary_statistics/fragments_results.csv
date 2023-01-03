@@ -1,0 +1,10 @@
+entries,number of compounds,number of edges,Pairwise RMSE,Pairwise MUE,Edgewise RMSE,Edgewise MUE,R-squared,Kendall tau
+frag_liga_auto_out,11,14,0.92,0.73,0.92,0.72,0.93,0.78
+frag_p38_out,6,10,0.56,0.48,0.59,0.50,0.90,0.87
+t4lysozyme_uvt_out,12,20,0.90,0.75,0.88,0.73,0.43,0.36
+frag_mcl1_manual_uvt_out,12,16,1.28,1.05,1.26,1.08,0.31,0.30
+jak2_set2_extra_bmcorr_out,8,13,1.27,1.07,1.06,0.90,0.41,0.64
+frag_mup1_out,7,10,0.54,0.40,0.48,0.32,0.92,0.88
+hsp90_frag_2rings_out,6,8,1.57,1.33,1.17,0.99,0.25,0.20
+jak2_set1_pkacorr_bmcorr_out,10,15,0.87,0.71,0.78,0.62,0.76,0.77
+hsp90_frag_single_ring_out,7,8,0.66,0.57,0.60,0.54,0.53,0.59

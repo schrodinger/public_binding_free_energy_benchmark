@@ -1,0 +1,9 @@
+entries,number of compounds,number of edges,Pairwise RMSE,Pairwise MUE,Edgewise RMSE,Edgewise MUE,R-squared,Kendall tau
+hif2a_automap_symbmcorr_out,41,103,1.10,0.89,1.05,0.85,0.61,0.48
+shp2_manual_213_exp_out,26,39,1.60,1.30,1.31,0.96,0.50,0.56
+syk_pkacorr_out,46,101,1.05,0.85,0.80,0.63,0.50,0.45
+cdk8_5cei_new_helix_loop_extra_symbmcorr_no28_out,32,54,1.63,1.33,1.62,1.31,0.56,0.54
+eg5_extraprotomers_manual_pkacorr_out,28,51,1.25,0.97,1.33,1.04,0.35,0.48
+cmet_symcor_exp_out,24,40,1.07,0.89,0.85,0.66,0.82,0.79
+pfkfb3_automap_symbmcorr_out,40,136,1.42,1.14,1.27,0.98,0.58,0.55
+tnks2_fullmap_symcorr_pkacorr_out,27,52,1.61,1.27,0.91,0.68,0.29,0.28

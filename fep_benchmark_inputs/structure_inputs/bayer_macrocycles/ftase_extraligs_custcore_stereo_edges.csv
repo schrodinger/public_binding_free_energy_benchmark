@@ -1,0 +1,9 @@
+Ligand 1,Ligand 2,ddG (kcal/mol)
+"lig 66, deprot","lig 2, deprot",-0.11999988555908203
+"lig 68, deprot","lig 2, deprot",-0.3000001907348633
+"lig 2, deprot",lig 51 stereo,1.010000228881836
+"lig 68, deprot","lig 66, deprot",-0.18000030517578125
+"lig 66, deprot",lig 49 stereo,0.6899995803833008
+"lig 66, deprot",lig 51 stereo,0.8900003433227539
+"lig 68, deprot",lig 49 stereo,0.5099992752075195
+lig 49 stereo,lig 51 stereo,0.20000076293945312

@@ -1,0 +1,93 @@
+Group name,Group abbreviation,Protein,Input file naming scheme,Reference PDB,Number of nodes,Dynamic range (kcal/mol),DOI of source
+Bayer macrocycles,bayer_macrocycles,BRD4,wagner_brd4,5UEX,3,3.8,doi:10.1002/cmdc.201700478
+Bayer macrocycles,bayer_macrocycles,Ftase,ftase_extraligs_custcore_stereo,1LD7,5,1,doi:10.1002/cmdc.201700478
+FEP+ R-group set,jacs_set,PTP1B,ptp1b,2QBS,23,5.1,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,Mcl1,mcl1_extra_flips,4HW3,69,4.2,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,CDK2,cdk2,1H1Q,16,4.2,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,JNK1,jnk1_manual_flips,2GMX,38,3.4,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,Thrombin,thrombin_core,2ZFF,11,1.7,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,TYK2,tyk2,4GIH,16,4.3,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,P38,p38,3FLN,34,3.8,doi:10.1021/ja512751q
+FEP+ R-group set,jacs_set,BACE1,bace,4DJW,36,3.5,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,JNK1,jnk1,2GMX,5,1.5,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,EGFR,egfr,3LZB,9,1.4,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,PTP1B,ptp1b,2QBP,4,4.1,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,IRAK4,irak4_s2,4ZTM,7,2.4,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,DLK,dlk,5CEQ,7,1.8,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,IRAK4,irak4_s3,4ZTN,6,1.9,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,EPHX2,ephx2,3KOO,6,3,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,JAK1,jak1,4IVD,8,2.5,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,TYK2,tyk2,4GIH,7,4.2,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,ITK,itk,4PQN,5,1.8,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,Thrombin,thrombin_whole_map,3SI4,6,5.9,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,CDK2,cdk2,1OIY,4,1.5,doi:10.1021/ja512751q
+FEP+ fragments,fragments,HSP90,hsp90_frag_2rings,3FT8,6,2.1,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,LigA,frag_liga_auto,4CC5,11,5.9,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,HSP90,hsp90_frag_single_ring,3FT8,7,1.7,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,JAK2,jak2_set1,3E63,12,3.6,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,MUP-1,frag_mup1,1I06,7,3.5,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,P38,frag_p38,1W7H,6,2.4,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,T4 lysozyme,t4lysozyme_uvt,186L,12,2.1,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,Mcl1,frag_mcl1_noweak,4HW3,12,1.3,doi:10.1021/acs.jcim.5b00538
+FEP+ fragments,fragments,JAK2,jak2_set2_extra,3E64,9,2.7,doi:10.1021/acs.jcim.5b00538
+FEP+ macrocycles,macrocycles,HSP90,3RKZ_lig62to70_alpha05,3RKZ,7,6.5,doi:10.1021/acs.jctc.7b00885
+FEP+ macrocycles,macrocycles,MHT1,MHT1_lig3_alpha05,5ANT,3,5.4,doi:10.1021/acs.jctc.7b00885
+FEP+ macrocycles,macrocycles,BACE1,2B8V_lig24and25_alpha05,2B8V,2,2.1,doi:10.1021/acs.jctc.7b00885
+FEP+ macrocycles,macrocycles,CK2,ck2_custcore_hotlys,2PVN,2,2.7,doi:10.1021/acs.jctc.7b00885
+FEP+ macrocycles,macrocycles,CHK1,2E9P_lig4to7_alpha05,2E9P,4,0.9,doi:10.1021/acs.jctc.7b00885
+FEP+ macrocycles,macrocycles,BACE1,2Q15_lig17to21_alpha05,2Q15,6,1.5,doi:10.1021/acs.jctc.7b00885
+FEP+ macrocycles,macrocycles,HSP90,hsp90_3hvd_custcore,3HVD,10,6.1,doi:10.1021/acs.jctc.7b00885
+FEP+ scaffold-hopping,scaffold_hopping,Factor Xa,Fxa_2ei8,2EI8,3,0.9,doi:10.1021/acs.jctc.6b00991
+FEP+ scaffold-hopping,scaffold_hopping,Beta-tryptase,TPSB2_3v7t,3V7T,2,0.6,doi:10.1021/acs.jctc.6b00991
+FEP+ scaffold-hopping,scaffold_hopping,BACE1,Bace1_4zsp,4ZSP,3,0.6,doi:10.1021/acs.jctc.6b00991
+FEP+ scaffold-hopping,scaffold_hopping,ER alpha,Era_2q70,2Q70,4,3,doi:10.1021/acs.jctc.6b00991
+FEP+ scaffold-hopping,scaffold_hopping,EZH2,EZH2_5ij7_corehop,5IJ7,4,1.9,doi:10.1021/acs.jctc.6b00991
+FEP+ scaffold-hopping,scaffold_hopping,CHK1,CHK1_3u9n_corehop,3U9N,5,1.2,doi:10.1021/acs.jctc.6b00991
+GPCRs,gpcrs,A2A,a2a_hip278,5OLZ,29,3.2,doi:10.1021/acs.jcim.0c00449
+GPCRs,gpcrs,OX2,ox2_hip_custcore,4S0V,51,4.8,doi:10.1021/acs.jcim.0c00449
+GPCRs,gpcrs,P2Y1,p2y1_meta_sub,4XNV,20,3.4,doi:10.1021/acs.jcim.1c01147
+GPCRs,gpcrs,P2Y1,p2y1_ortho_sub,4XNV,12,3.4,doi:10.1021/acs.jcim.1c01147
+Janssen BACE1,janssen_bace,BACE1,bace_keranen_p2,3IN4,18,0.9,doi:10.1021/acs.jctc.6b01141
+Janssen BACE1,janssen_bace,BACE1,bace_ciordia_retro,4JPC,33,4.9,doi:10.1021/acs.jcim.6b00220
+Janssen BACE1,janssen_bace,BACE1,bace_p3_arg368_in,3ZOV,21,4.8,doi:10.1021/acs.jctc.6b01141
+Janssen BACE1,janssen_bace,BACE1,bace_ciordia_prospective,4JPC,9,2.5,doi:10.1021/acs.jcim.6b00220
+MCS docking,mcs_docking,Renin,renin_customcore,3OOT,29,5,doi:10.1021/acs.jcim.9b01118
+MCS docking,mcs_docking,HNE,hne,5A0A,20,7.5,doi:10.1021/acs.jcim.9b01118
+Miscellaneous,misc,FAAH,hfaah,6MRG,24,5.3,doi:10.1021/acs.jctc.8b00672
+Miscellaneous,misc,HIV1 protease,hiv_prot_ekegren,2CEN,13,1.3,doi:10.1021/jm051239z
+Miscellaneous,misc,CDK8,cdk8_koehler,5CEI,10,1.6,doi:10.1021/acsmedchemlett.5b00278
+Miscellaneous,misc,Galectin,galectin3_extra,5E89,26,3.4,doi:10.1039/c9sc03754c
+Miscellaneous,misc,BTK,btk_extra_flip,4ZLZ,8,3.8,doi:10.1021/acs.jmedchem.5b00734
+OPLS stress set,opls_stress,BACE1,cr_bace1,4DJW,11,3.6,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,BACE1,hc_bace1,3NSH,7,3.1,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,Factor Xa,fxa_yoshikawa_set,3IIT,27,5.4,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,BACE1,cr_bace2,4DJW,12,4.4,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,Factor Xa,fxa_set3,2VVV,4,0.7,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,Factor Xa,fxa_set6,2J95,6,5.3,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,Factor Xa,fxa_set5,3IIT,2,0.1,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,BACE1,hc_bace2,3NSH,10,2.2,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,Factor Xa,fxa_set4,2J95,11,3.3,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,CHK1,chk1_set2,2HY0,2,1.1,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,CHK1,chk1_set3,2YDK,4,0.5,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,CHK1,chk1_set7,2E9V,3,1.8,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,CHK1,chk1_set6,3U9N,3,3.3,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,CHK1,chk1_set4,2YDJ,2,0.5,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,CHK1,chk1_set5,3PA3,3,1.3,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,BACE1,pb_bace3,3NSH,4,1.8,doi:10.1021/acs.jctc.1c00302
+OPLS stress set,opls_stress,CHK1,chk1_set1,2AYP,3,0.8,doi:10.1021/acs.jctc.1c00302
+Public Merck sets,merck,PFKFB3,pfkfb3_automap,6HVI,87,3.7,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,SHP2,shp2,5EHR,26,4.3,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,cMet,cmet,4R1Y,24,6.1,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,Eg5,eg5_extraprotomers,3L9H,34,3.5,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,SYK,syk_4puz_fullmap,4PUZ,53,4.1,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,HIF-2alpha,hif2a_automap,5TBM,51,4.6,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,TNKS2,tnks2_fullmap,4UI5,33,4.3,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,CDK8,cdk8_5cei_new_helix_loop_extra,5CEI,41,5.7,doi:10.1021/acs.jcim.0c00900
+Water displacement,waterset,Urokinase,urokinase,1GJ7,4,2.2,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,Scytalone dehydratase,scyt_dehyd,3STD,7,6.2,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,BRD4,brd41_ASH106,5I88,8,2.6,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,HSP90,hsp90_woodhead,2XJJ,4,4.6,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,Thrombin,throm_nozob_hip75,2ZFF,39,4.3,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,TAF1(2),taf12,5I1Q,8,2.3,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,CHK1,chk1,2E9V,13,4.6,doi:10.1021/acs.jctc.0c00660
+Water displacement,waterset,HSP90,hsp90_kung,3RLP,11,3.9,doi:10.1021/acs.jctc.0c00660

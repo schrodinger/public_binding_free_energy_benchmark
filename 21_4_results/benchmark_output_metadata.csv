@@ -1,0 +1,92 @@
+Group name,Group abbreviation,Protein,Reference PDB,Input file naming scheme,Output file naming scheme
+Bayer macrocycles,bayer_macrocycles,BRD4,5UEX,wagner_brd4,wagner_brd4_out
+Bayer macrocycles,bayer_macrocycles,Ftase,1LD7,ftase_extraligs_custcore_stereo,ftase_extraligs_custcore_stereo_out
+FEP+ R-group set,jacs_set,PTP1B,2QBS,ptp1b,ptp1b_out
+FEP+ R-group set,jacs_set,Mcl1,4HW3,mcl1_extra_flips,mcl1_extra_flips_bmcorr_out
+FEP+ R-group set,jacs_set,CDK2,1H1Q,cdk2,cdk2_out
+FEP+ R-group set,jacs_set,JNK1,2GMX,jnk1_manual_flips,jnk1_manual_flips_symbmcorr_out
+FEP+ R-group set,jacs_set,Thrombin,2ZFF,thrombin_core,thrombin_core_out
+FEP+ R-group set,jacs_set,TYK2,4GIH,tyk2,tyk2_out
+FEP+ R-group set,jacs_set,P38,3FLN,p38,p38_out
+FEP+ R-group set,jacs_set,BACE1,4DJW,bace,bace_out
+FEP+ charge-change,charge_annhil,JNK1,2GMX,jnk1,jnk1_pkacorr_out
+FEP+ charge-change,charge_annhil,EGFR,3LZB,egfr,egfr_pkacorr_out
+FEP+ charge-change,charge_annhil,PTP1B,2QBP,ptp1b,ptp1b_pkacorr_out
+FEP+ charge-change,charge_annhil,IRAK4,4ZTM,irak4_s2,irak4_s2_pkacorr_out
+FEP+ charge-change,charge_annhil,DLK,5CEQ,dlk,dlk_pkacorr_out
+FEP+ charge-change,charge_annhil,IRAK4,4ZTN,irak4_s3,irak4_s3_pkacorr_out
+FEP+ charge-change,charge_annhil,EPHX2,3KOO,ephx2,ephx2_pkacor_out
+FEP+ charge-change,charge_annhil,JAK1,4IVD,jak1,jak1_pkacorr_out
+FEP+ charge-change,charge_annhil,TYK2,4GIH,tyk2,tyk2_pkacorr_out
+FEP+ charge-change,charge_annhil,ITK,4PQN,itk,itk_pkacorr_out
+FEP+ charge-change,charge_annhil,Thrombin,3SI4,thrombin_whole_map,thrombin_whole_map_out
+FEP+ charge-change,charge_annhil,CDK2,1OIY,cdk2,cdk2_pkacorr_out
+FEP+ fragments,fragments,HSP90,3FT8,hsp90_frag_2rings,hsp90_frag_2rings_out
+FEP+ fragments,fragments,LigA,4CC5,frag_liga_auto,frag_liga_auto_out
+FEP+ fragments,fragments,HSP90,3FT8,hsp90_frag_single_ring,hsp90_frag_single_ring_out
+FEP+ fragments,fragments,JAK2,3E63,jak2_set1,jak2_set1_pkacorr_bmcorr_out
+FEP+ fragments,fragments,MUP-1,1I06,frag_mup1,frag_mup1_out
+FEP+ fragments,fragments,P38,1W7H,frag_p38,frag_p38_out
+FEP+ fragments,fragments,T4 lysozyme,186L,t4lysozyme_uvt,t4lysozyme_uvt_out
+FEP+ fragments,fragments,Mcl1,4HW3,frag_mcl1_noweak,frag_mcl1_manual_uvt_out
+FEP+ fragments,fragments,JAK2,3E64,jak2_set2_extra,jak2_set2_extra_bmcorr_out
+FEP+ macrocycles,macrocycles,HSP90,3RKZ,3RKZ_lig62to70_alpha05,3RKZ_lig62to70_alpha05_out
+FEP+ macrocycles,macrocycles,MHT1,5ANT,MHT1_lig3_alpha05,MHT1_lig3_alpha05_out
+FEP+ macrocycles,macrocycles,BACE1,2B8V,2B8V_lig24and25_alpha05,2B8V_lig24and25_alpha05_out
+FEP+ macrocycles,macrocycles,CK2,2PVN,ck2_custcore_hotlys,ck2_custcore_hotlys_out
+FEP+ macrocycles,macrocycles,CHK1,2E9P,2E9P_lig4to7_alpha05,2E9P_lig4to7_alpha05_out
+FEP+ macrocycles,macrocycles,BACE1,2Q15,2Q15_lig17to21_alpha05,2Q15_lig17to21_alpha05_out
+FEP+ macrocycles,macrocycles,HSP90,3HVD,hsp90_3hvd_custcore,hsp90_3hvd_custcore_out
+FEP+ scaffold-hopping,scaffold_hopping,Factor Xa,2EI8,Fxa_2ei8,Fxa_2ei8_opls4_out
+FEP+ scaffold-hopping,scaffold_hopping,Beta-tryptase,3V7T,TPSB2_3v7t,TPSB2_3v7t_opls4_out
+FEP+ scaffold-hopping,scaffold_hopping,BACE1,4ZSP,Bace1_4zsp,Bace1_4zsp_opls4_out
+FEP+ scaffold-hopping,scaffold_hopping,EZH2,5IJ7,EZH2_5ij7_corehop,EZH2_5ij7_corehop_opls4_out
+FEP+ scaffold-hopping,scaffold_hopping,CHK1,3U9N,CHK1_3u9n_corehop,CHK1_3u9n_corehop_opls4_out
+GPCRs,gpcrs,A2A,5OLZ,a2a_hip278,a2a_hip278_sbpkacorr_out
+GPCRs,gpcrs,OX2,4S0V,ox2_hip_custcore,ox2_hip_custcore_out
+GPCRs,gpcrs,P2Y1,4XNV,p2y1_meta_sub,py21_merged
+GPCRs,gpcrs,P2Y1,4XNV,p2y1_ortho_sub,py21_merged
+Janssen BACE1,janssen_bace,BACE1,3IN4,bace_keranen_p2,bace_keranen_p2_bmcorr_out
+Janssen BACE1,janssen_bace,BACE1,4JPC,bace_ciordia_retro,retrospective_custom_core_extra_pkacorr_out
+Janssen BACE1,janssen_bace,BACE1,3ZOV,bace_p3_arg368_in,bace_p3_arg368_in_morecorehops_out
+Janssen BACE1,janssen_bace,BACE1,4JPC,bace_ciordia_prospective,bace_ciordia_prospective_out
+MCS docking,mcs_docking,Renin,3OOT,renin_customcore,renin_customcore_moddih_out
+MCS docking,mcs_docking,HNE,5A0A,hne,hne_500mM_out
+Miscellaneous,misc,FAAH,6MRG,hfaah,hfaah_out
+Miscellaneous,misc,HIV1 protease,2CEN,hiv_prot_ekegren,hiv_prot_ekegren_out
+Miscellaneous,misc,CDK8,5CEI,cdk8_koehler,cdk8_koehler_213_out
+Miscellaneous,misc,Galectin,5E89,galectin3_extra,galectin3_extra_out
+Miscellaneous,misc,BTK,4ZLZ,btk_extra_flip,btk_extra_flip_bmcorr_out
+OPLS stress set,opls_stress,BACE1,4DJW,cr_bace1,cr_bace1_out
+OPLS stress set,opls_stress,BACE1,3NSH,hc_bace1,hc_bace1_out
+OPLS stress set,opls_stress,Factor Xa,3IIT,fxa_yoshikawa_set,fxa_yoshikawa_set_out
+OPLS stress set,opls_stress,BACE1,4DJW,cr_bace2,cr_bace2_out
+OPLS stress set,opls_stress,Factor Xa,2VVV,fxa_set3,fxa_set3_out
+OPLS stress set,opls_stress,Factor Xa,2J95,fxa_set6,fxa_set6_out
+OPLS stress set,opls_stress,Factor Xa,3IIT,fxa_set5,fxa_set5_out
+OPLS stress set,opls_stress,BACE1,3NSH,hc_bace2,hc_bace2_out
+OPLS stress set,opls_stress,Factor Xa,2J95,fxa_set4,fxa_set4_out
+OPLS stress set,opls_stress,CHK1,2HY0,chk1_set2,chk1_set2_out
+OPLS stress set,opls_stress,CHK1,2YDK,chk1_set3,chk1_set3_out
+OPLS stress set,opls_stress,CHK1,2E9V,chk1_set7,chk1_set7_out
+OPLS stress set,opls_stress,CHK1,3U9N,chk1_set6,chk1_set6_out
+OPLS stress set,opls_stress,CHK1,2YDJ,chk1_set4,chk1_set4_out
+OPLS stress set,opls_stress,CHK1,3PA3,chk1_set5,chk1_set5_out
+OPLS stress set,opls_stress,BACE1,3NSH,pb_bace3,pb_bace3_out
+OPLS stress set,opls_stress,CHK1,2AYP,chk1_set1,chk1_set1_out
+Public Merck sets,merck,PFKFB3,6HVI,pfkfb3_automap,pfkfb3_automap_symbmcorr_out
+Public Merck sets,merck,SHP2,5EHR,shp2,shp2_manual_213_exp_out
+Public Merck sets,merck,cMet,4R1Y,cmet,cmet_symcor_exp_out
+Public Merck sets,merck,Eg5,3L9H,eg5_extraprotomers,eg5_extraprotomers_manual_pkacorr_out
+Public Merck sets,merck,SYK,4PUZ,syk_4puz_fullmap,syk_pkacorr_out
+Public Merck sets,merck,HIF-2alpha,5TBM,hif2a_automap,hif2a_automap_symbmcorr_out
+Public Merck sets,merck,TNKS2,4UI5,tnks2_fullmap,tnks2_fullmap_symcorr_pkacorr_out
+Public Merck sets,merck,CDK8,5CEI,cdk8_5cei_new_helix_loop_extra,cdk8_5cei_new_helix_loop_extra_symbmcorr_no28_out
+Water displacement,waterset,Urokinase,1GJ7,urokinase,urokinase_out
+Water displacement,waterset,Scytalone dehydratase,3STD,scyt_dehyd,scyt_dehyd_pkacorr_out
+Water displacement,waterset,BRD4,5I88,brd41_ASH106,brd41_ASH106_out
+Water displacement,waterset,HSP90,2XJJ,hsp90_woodhead,hsp90_woodhead_out
+Water displacement,waterset,Thrombin,2ZFF,throm_nozob_hip75,throm_nozob_hip75_sbmcorr_out
+Water displacement,waterset,TAF1(2),5I1Q,taf12,taf12_out
+Water displacement,waterset,CHK1,2E9V,chk1,chk1_out
+Water displacement,waterset,HSP90,3RLP,hsp90_kung,hsp90_kung_out

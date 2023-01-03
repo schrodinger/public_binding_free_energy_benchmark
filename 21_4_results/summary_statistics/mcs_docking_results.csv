@@ -1,0 +1,3 @@
+entries,number of compounds,number of edges,Pairwise RMSE,Pairwise MUE,Edgewise RMSE,Edgewise MUE,R-squared,Kendall tau
+renin_customcore_moddih_out,29,47,1.50,1.24,1.80,1.52,0.46,0.42
+hne_500mM_out,20,30,1.39,1.13,1.37,1.11,0.74,0.44

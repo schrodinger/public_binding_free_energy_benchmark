@@ -1,0 +1,7 @@
+pH  7.4
+
+# ligand     ligand      pka
+21 neutral_21_8.53
+21 (SP core01) neutral_21 (SP core01)_8.83
+16 neutral_16_3.58
+19 neutral_19_3.66

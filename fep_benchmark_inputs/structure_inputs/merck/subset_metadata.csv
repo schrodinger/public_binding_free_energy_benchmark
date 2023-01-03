@@ -1,0 +1,9 @@
+Group name,Group abbreviation,Protein,Input file naming scheme,Reference PDB,Number of nodes,Dynamic range (kcal/mol),DOI of source
+Public Merck sets,merck,PFKFB3,pfkfb3_automap,6HVI,87,3.7,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,SHP2,shp2,5EHR,26,4.3,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,cMet,cmet,4R1Y,24,6.1,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,Eg5,eg5_extraprotomers,3L9H,34,3.5,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,SYK,syk_4puz_fullmap,4PUZ,53,4.1,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,HIF-2alpha,hif2a_automap,5TBM,51,4.6,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,TNKS2,tnks2_fullmap,4UI5,33,4.3,doi:10.1021/acs.jcim.0c00900
+Public Merck sets,merck,CDK8,cdk8_5cei_new_helix_loop_extra,5CEI,41,5.7,doi:10.1021/acs.jcim.0c00900

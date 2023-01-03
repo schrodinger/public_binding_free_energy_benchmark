@@ -1,0 +1,6 @@
+pH 7.5
+
+4o_4o deprotonated_9.84
+4e D_4eD deprotonated_8.43
+4e U 4eu deprotonated_8.43
+4f_4f deprotonated_10.72

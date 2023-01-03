@@ -1,0 +1,7 @@
+Group name,Group abbreviation,Protein,Input file naming scheme,Reference PDB,Number of nodes,Dynamic range (kcal/mol),DOI of source
+FEP+ scaffold-hopping,scaffold_hopping,Factor Xa,Fxa_2ei8,2EI8,3,0.9,doi:10.1021/acs.jctc.6b00991
+FEP+ scaffold-hopping,scaffold_hopping,Beta-tryptase,TPSB2_3v7t,3V7T,2,0.6,doi:10.1021/acs.jctc.6b00991
+FEP+ scaffold-hopping,scaffold_hopping,BACE1,Bace1_4zsp,4ZSP,3,0.6,doi:10.1021/acs.jctc.6b00991
+FEP+ scaffold-hopping,scaffold_hopping,ER alpha,Era_2q70,2Q70,4,3,doi:10.1021/acs.jctc.6b00991
+FEP+ scaffold-hopping,scaffold_hopping,CHK1,CHK1_3u9n_corehop,3U9N,5,1.2,doi:10.1021/acs.jctc.6b00991
+FEP+ scaffold-hopping,scaffold_hopping,EZH2,EZH2_5ij7_corehop,5IJ7,4,1.9,doi:10.1021/acs.jctc.6b00991

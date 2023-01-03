@@ -1,0 +1,13 @@
+Group name,Group abbreviation,Protein,Input file naming scheme,Reference PDB,Number of nodes,Dynamic range (kcal/mol),DOI of source
+FEP+ charge-change,charge_annhil,JNK1,jnk1,2GMX,5,1.5,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,EGFR,egfr,3LZB,9,1.4,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,PTP1B,ptp1b,2QBP,4,4.1,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,IRAK4,irak4_s2,4ZTM,7,2.4,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,DLK,dlk,5CEQ,7,1.8,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,IRAK4,irak4_s3,4ZTN,6,1.9,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,EPHX2,ephx2,3KOO,6,3.0,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,JAK1,jak1,4IVD,8,2.5,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,TYK2,tyk2,4GIH,7,4.2,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,ITK,itk,4PQN,5,1.8,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,Thrombin,thrombin_whole_map,3SI4,6,5.9,doi:10.1021/ja512751q
+FEP+ charge-change,charge_annhil,CDK2,cdk2,1OIY,4,1.5,doi:10.1021/ja512751q

@@ -1,0 +1,21 @@
+Ligand 1,Ligand 2,ddG (kcal/mol)
+meta methyl ethyl benzene,m-xylene,0.3600001335144043
+ethyl benzene,meta methyl ethyl benzene,0.6399998664855957
+butyl benzene,meta methyl ethyl benzene,1.5799999237060547
+methyl benzene,benzene,0.32000017166137695
+butyl benzene,methyl benzene,1.179999828338623
+para methyl ethyl benzene,ethyl benzene,-0.3399996757507324
+butyl benzene,ethyl benzene,0.940000057220459
+propyl benzene,ethyl benzene,0.7900004386901855
+ortho methyl ethyl benzene,ethyl benzene,-1.1899995803833008
+butyl benzene,ortho methyl ethyl benzene,2.1299996376037598
+ortho methyl ethyl benzene,o-xylene,-0.039999961853027344
+benzene,m-xylene,0.440000057220459
+benzene,p-xylene,0.5299997329711914
+para methyl ethyl benzene,p-xylene,0.75
+benzene,o-xylene,0.5899996757507324
+butyl benzene,benzene,1.5
+butyl benzene,para methyl ethyl benzene,1.2799997329711914
+propyl benzene,butyl benzene,-0.14999961853027344
+butyl benzene,isobutyl benzene,0.2199997901916504
+propyl benzene,isobutyl benzene,0.07000017166137695

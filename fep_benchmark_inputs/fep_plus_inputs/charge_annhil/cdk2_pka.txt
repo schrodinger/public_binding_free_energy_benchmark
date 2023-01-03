@@ -1,0 +1,4 @@
+pH  7.5
+
+# ligand ligand pka
+39charg 39neu 3.23
