@@ -1,7 +1,7 @@
 pH	7.5
 #Lig	pKa
-27chgR	8.54
-27chgS  8.54
-28	7.7
-29	9.15
-30	8.74
+27neu 27chargR	8.54
+27neu 27chargS  8.54
+28neu 28charg	7.7
+29neu 29charg	9.15
+30neu 30charg	8.74
